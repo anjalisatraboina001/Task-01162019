@@ -1,6 +1,6 @@
-package com.mkyong.reactive.repository;
+package com.anjali.reactive.repository;
 
-import com.mkyong.reactive.Movie;
+import com.anjali.reactive.Movie;
 import reactor.core.publisher.Flux;
 
 public interface MovieRepository {
